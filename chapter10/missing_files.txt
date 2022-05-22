@@ -1,0 +1,2 @@
+C:\Users\User\PycharmProjects\python_crash_course\chapter10\text_slots
+C:\Users\User\PycharmProjects\python_crash_course\chapter10\jerro.txt

@@ -1,0 +1,158 @@
+Question 1a
+
+program hypotenus
+implicit none
+!Program to calculate the hypotenus of a triangle from the two sides
+real :: opposite, adjacent, hypo
+hypo = sqrt((opposite**2) + (adjacent**2))
+print *, hypo
+end program hypotenuse
+
+Question 1b
+
+program hypotenus
+implicit none
+!Program to calculate the hypotenus of a triangle from the two sides
+real :: opposite, adjacent, hypo
+opposite = 5
+adjacent = 12
+hypo = sqrt((opposite**2) + (adjacent**2))
+print *, hypo
+end program hypotenuse
+
+
+
+
+
+
+
+
+Question2a
+
+program hyperbolic_cos
+implicit none
+!Program to calculate the hyperbolic cosine of a number
+real :: number, ans
+ans = cosh(number)
+print *, "The hyperbolic cosine of ", number, " is ", ans
+end program hyperbolic_cos
+
+Question 2b
+
+program hyperbolic_cos
+implicit none
+!Program to calculate the hyperbolic cosine of a number
+real :: number, ans
+number  = 3
+ans = cosh(number)
+print *, "The hyperbolic cosine of ", number, " is ", ans
+end program hyperbolic_cos
+
+
+
+
+
+
+
+
+
+Question 3
+
+program lnfunction
+implicit none
+!Program to calculate ln(1.0/1.0-x)
+real :: x, ans, b
+do while (.true.)
+  print *, "Enter the number"
+  read *, x
+  if (x >= 1)then
+    print *, "Undefined"
+  else
+    b=(1.0/1.0-x)
+    ans = log(b)
+  	print *, ans
+  end if
+end do
+end program lnfunction
+
+
+
+
+
+
+
+
+
+
+
+Question 4
+
+program harmonic_mean
+implicit none
+!Program to calculate the harmonic mean of a data set
+real ,allocatable, dimension(:) :: a
+integer :: imax, i
+real :: inverse_summation = 0.0, ans
+print *, "How many number do you want to enter? "
+read*, imax
+allocate (a(imax))
+print *, "Enter the numbers: "
+do i = 1, imax
+  read *, a(i)
+end do
+do i = 1, imax
+  if (a(i) == 0) then
+    inverse_summation = inverse_summation + 0
+  else
+  	inverse_summation = inverse_summation + (1/a(i))
+  end if
+end do
+ans = imax / inverse_summation
+print *, "harmonic mean: ", ans
+deallocate(a)
+end program harmonic_mean
+
+
+
+
+Question 5
+
+program mean_sd
+!program to calculate the mean and standard deviation
+implicit none
+integer ::  i
+real, dimension (10) :: a
+real :: mean, sd = 0.0, sum = 0.0, num_sum = 0.0, b
+open (10, file = "input_file.txt")
+do i = 1, 10
+  read (10, *) a(i)
+  sum = sum + a(i)
+end do
+mean = sum/10.0
+print *, "Mean = ", mean
+i = 0
+do i = 1, 10
+   b = (a(i) - mean)**2
+   print *, b
+   num_sum = num_sum + b
+end do
+print *, "Num sum: ", num_sum
+sd = sqrt(num_sum / sum)
+print *, "The standard deviation is ", sd
+end program mean_sd
+
+
+
+
+
+Fine name = “Input_file.txt”
+
+11
+22
+33
+42
+54
+64
+78
+88
+93

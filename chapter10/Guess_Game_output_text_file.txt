@@ -1,0 +1,773 @@
+C:\Users\User\AppData\Local\Programs\Python\Python38\python.exe C:/Users/User/PycharmProjects/python_crash_course/chapter10/json_practice_GuessGame.py
+Welcome back Balikis
+Do you want another user to play this game ?
+if yes press  1, else press 2 :
+2
+Start game now ? (1/2) : 1
+
+===============================================================================
+
+ZZZZZZZZZZZZZZZZZZZZ
+GAME STARTED !!!
+ZZZZZZZZZZZZZZZZZZZZ
+
+Choose difficulty level :
+Enter "1" for easy, "2" for medium and "3" for legend :
+1
+
+Whenever you want to quit, please enter "0".
+
+Enter a number : 23
+Balikis, you will have 2 numbers! from 1 to 23
+Here is the list of numbers. >>>>Guess the one golden number.
+8
+16
+Enter your guess : 8
+oops you missed it.
+You can play again.
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+Enter a number : 32
+Balikis, you will have 2 numbers! from 1 to 32
+Here is the list of numbers. >>>>Guess the one golden number.
+19
+20
+Enter your guess : 19
+oops you missed it.
+You can play again.
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+Enter a number : 23
+Balikis, you will have 2 numbers! from 1 to 23
+Here is the list of numbers. >>>>Guess the one golden number.
+13
+1
+Enter your guess : 13
+Wow! you got it.
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+Enter a number : 3
+Balikis, you will have 2 numbers! from 1 to 3
+Here is the list of numbers. >>>>Guess the one golden number.
+1
+2
+Enter your guess : 2
+oops you missed it.
+You can play again.
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+Enter a number : 3
+Balikis, you will have 2 numbers! from 1 to 3
+Here is the list of numbers. >>>>Guess the one golden number.
+3
+2
+Enter your guess : 2
+Wow! you got it.
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+Balikis Your score in Guess game is 2 out of 5 attempted guesses.
+Do you want to play again : 1
+Start game now ? (1/2) : 1
+
+===============================================================================
+
+ZZZZZZZZZZZZZZZZZZZZ
+GAME STARTED !!!
+ZZZZZZZZZZZZZZZZZZZZ
+
+Choose difficulty level :
+Enter "1" for easy, "2" for medium and "3" for legend :
+3
+
+Whenever you want to quit, please enter "0".
+
+Enter a number : 32
+Balikis, you will have 4 numbers! from 1 to 32
+Here is the list of numbers. >>>>Guess the one golden number.
+14
+18
+6
+32
+Enter your guess : 6
+oops you missed it.
+You can play again.
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+Enter a number : 2
+Enter a number that is equal or more than 4!
+Enter a number : 3
+Enter a number that is equal or more than 4!
+Enter a number : 4
+Balikis, you will have 4 numbers! from 1 to 4
+Here is the list of numbers. >>>>Guess the one golden number.
+2
+3
+4
+1
+Enter your guess : 1
+oops you missed it.
+You can play again.
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+Enter a number : 5
+Balikis, you will have 4 numbers! from 1 to 5
+Here is the list of numbers. >>>>Guess the one golden number.
+3
+1
+4
+2
+Enter your guess : 2
+oops you missed it.
+You can play again.
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+Enter a number : 22
+Balikis, you will have 4 numbers! from 1 to 22
+Here is the list of numbers. >>>>Guess the one golden number.
+7
+5
+15
+10
+Enter your guess : 7
+oops you missed it.
+You can play again.
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+Enter a number : 32
+Balikis, you will have 4 numbers! from 1 to 32
+Here is the list of numbers. >>>>Guess the one golden number.
+11
+24
+25
+4
+Enter your guess : 4
+oops you missed it.
+You can play again.
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+Balikis Your score in Guess game is 0 out of 5 attempted guesses.
+Do you want to play again : 2
+Quit Game ? : 2
+Welcome back Balikis
+Do you want another user to play this game ?
+if yes press  1, else press 2 :
+2
+Start game now ? (1/2) : 1
+
+===============================================================================
+
+ZZZZZZZZZZZZZZZZZZZZ
+GAME STARTED !!!
+ZZZZZZZZZZZZZZZZZZZZ
+
+Choose difficulty level :
+Enter "1" for easy, "2" for medium and "3" for legend :
+2
+
+Whenever you want to quit, please enter "0".
+
+Enter a number : 3
+Balikis, you will have 3 numbers! from 1 to 3
+Here is the list of numbers. >>>>Guess the one golden number.
+1
+2
+3
+Enter your guess : 1
+oops you missed it.
+You can play again.
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+Enter a number : 4
+Balikis, you will have 3 numbers! from 1 to 4
+Here is the list of numbers. >>>>Guess the one golden number.
+2
+1
+4
+Enter your guess : 1
+oops you missed it.
+You can play again.
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+Enter a number : 23
+Balikis, you will have 3 numbers! from 1 to 23
+Here is the list of numbers. >>>>Guess the one golden number.
+4
+21
+20
+Enter your guess : 21
+Wow! you got it.
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+Enter a number : 83
+Balikis, you will have 3 numbers! from 1 to 83
+Here is the list of numbers. >>>>Guess the one golden number.
+17
+2
+74
+Enter your guess : 2
+oops you missed it.
+You can play again.
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+Enter a number : 3
+Balikis, you will have 3 numbers! from 1 to 3
+Here is the list of numbers. >>>>Guess the one golden number.
+2
+3
+1
+Enter your guess : 1
+oops you missed it.
+You can play again.
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+Balikis Your score in Guess game is 1 out of 5 attempted guesses.
+Do you want to play again : 23
+Do you want to play again : 1
+Start game now ? (1/2) : 2
+
+===============================================================================
+
+Start game now ? (1/2) : 2
+
+===============================================================================
+
+Start game now ? (1/2) : 1
+
+===============================================================================
+
+ZZZZZZZZZZZZZZZZZZZZ
+GAME STARTED !!!
+ZZZZZZZZZZZZZZZZZZZZ
+
+Choose difficulty level :
+Enter "1" for easy, "2" for medium and "3" for legend :
+1
+
+Whenever you want to quit, please enter "0".
+
+Enter a number : 2
+Balikis, you will have 2 numbers! from 1 to 2
+Here is the list of numbers. >>>>Guess the one golden number.
+2
+1
+Enter your guess : 1
+oops you missed it.
+You can play again.
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+Enter a number : 2
+Balikis, you will have 2 numbers! from 1 to 2
+Here is the list of numbers. >>>>Guess the one golden number.
+2
+1
+Enter your guess : 1
+Wow! you got it.
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+Enter a number : 8
+Balikis, you will have 2 numbers! from 1 to 8
+Here is the list of numbers. >>>>Guess the one golden number.
+2
+3
+Enter your guess : 3
+oops you missed it.
+You can play again.
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+Enter a number : 2
+Balikis, you will have 2 numbers! from 1 to 2
+Here is the list of numbers. >>>>Guess the one golden number.
+1
+2
+Enter your guess : 2
+oops you missed it.
+You can play again.
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+Enter a number : 3
+Balikis, you will have 2 numbers! from 1 to 3
+Here is the list of numbers. >>>>Guess the one golden number.
+3
+2
+Enter your guess : 2
+oops you missed it.
+You can play again.
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+Balikis Your score in Guess game is 1 out of 5 attempted guesses.
+Do you want to play again : 2
+Quit Game ? : 2
+Welcome back Balikis
+Do you want another user to play this game ?
+if yes press  1, else press 2 :
+1
+Enter the new player's name. : solomon
+Welcome Solomon. Your name will be remembered when next you log in.
+Start game now ? (1/2) : 2
+
+===============================================================================
+
+Start game now ? (1/2) : 1
+
+===============================================================================
+
+ZZZZZZZZZZZZZZZZZZZZ
+GAME STARTED !!!
+ZZZZZZZZZZZZZZZZZZZZ
+
+Choose difficulty level :
+Enter "1" for easy, "2" for medium and "3" for legend :
+2
+
+Whenever you want to quit, please enter "0".
+
+Enter a number : 22
+Solomon, you will have 3 numbers! from 1 to 22
+Here is the list of numbers. >>>>Guess the one golden number.
+4
+20
+14
+Enter your guess : 14
+oops you missed it.
+You can play again.
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+Enter a number : 2
+Enter a number that is equal or more than 3!
+Enter a number : 3
+Solomon, you will have 3 numbers! from 1 to 3
+Here is the list of numbers. >>>>Guess the one golden number.
+1
+3
+2
+Enter your guess : 1
+oops you missed it.
+You can play again.
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+Enter a number : 24
+Solomon, you will have 3 numbers! from 1 to 24
+Here is the list of numbers. >>>>Guess the one golden number.
+19
+12
+21
+Enter your guess : 12
+oops you missed it.
+You can play again.
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+Enter a number : 23
+Solomon, you will have 3 numbers! from 1 to 23
+Here is the list of numbers. >>>>Guess the one golden number.
+4
+10
+1
+Enter your guess : 1
+oops you missed it.
+You can play again.
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+Enter a number : 12
+Solomon, you will have 3 numbers! from 1 to 12
+Here is the list of numbers. >>>>Guess the one golden number.
+4
+2
+1
+Enter your guess : 4
+oops you missed it.
+You can play again.
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+Solomon Your score in Guess game is 0 out of 5 attempted guesses.
+Do you want to play again : 2
+Quit Game ? : 2
+Welcome back Solomon
+Do you want another user to play this game ?
+if yes press  1, else press 2 :
+1
+Enter the new player's name. : femi
+Welcome Femi. Your name will be remembered when next you log in.
+Start game now ? (1/2) : 1
+
+===============================================================================
+
+ZZZZZZZZZZZZZZZZZZZZ
+GAME STARTED !!!
+ZZZZZZZZZZZZZZZZZZZZ
+
+Choose difficulty level :
+Enter "1" for easy, "2" for medium and "3" for legend :
+1
+
+Whenever you want to quit, please enter "0".
+
+Enter a number : 8
+Femi, you will have 2 numbers! from 1 to 8
+Here is the list of numbers. >>>>Guess the one golden number.
+8
+4
+Enter your guess : 4
+oops you missed it.
+You can play again.
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+Enter a number : 2
+Femi, you will have 2 numbers! from 1 to 2
+Here is the list of numbers. >>>>Guess the one golden number.
+2
+1
+Enter your guess : 1
+Wow! you got it.
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+Enter a number : 22
+Femi, you will have 2 numbers! from 1 to 22
+Here is the list of numbers. >>>>Guess the one golden number.
+11
+7
+Enter your guess : 11
+Wow! you got it.
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+Enter a number : 20
+Femi, you will have 2 numbers! from 1 to 20
+Here is the list of numbers. >>>>Guess the one golden number.
+14
+16
+Enter your guess : 16
+oops you missed it.
+You can play again.
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+Enter a number : 8
+Femi, you will have 2 numbers! from 1 to 8
+Here is the list of numbers. >>>>Guess the one golden number.
+4
+7
+Enter your guess : 7
+Wow! you got it.
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+Femi Your score in Guess game is 3 out of 5 attempted guesses.
+Do you want to play again : 2
+Quit Game ? : 2
+Welcome back Femi
+Do you want another user to play this game ?
+if yes press  1, else press 2 :
+1
+Enter the new player's name. : subomi
+Welcome Subomi. Your name will be remembered when next you log in.
+Start game now ? (1/2) : 1
+
+===============================================================================
+
+ZZZZZZZZZZZZZZZZZZZZ
+GAME STARTED !!!
+ZZZZZZZZZZZZZZZZZZZZ
+
+Choose difficulty level :
+Enter "1" for easy, "2" for medium and "3" for legend :
+1
+
+Whenever you want to quit, please enter "0".
+
+Enter a number : 2
+Subomi, you will have 2 numbers! from 1 to 2
+Here is the list of numbers. >>>>Guess the one golden number.
+2
+1
+Enter your guess : 1
+oops you missed it.
+You can play again.
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+Enter a number : 99
+Subomi, you will have 2 numbers! from 1 to 99
+Here is the list of numbers. >>>>Guess the one golden number.
+73
+14
+Enter your guess : 14
+Wow! you got it.
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+Enter a number : 9
+Subomi, you will have 2 numbers! from 1 to 9
+Here is the list of numbers. >>>>Guess the one golden number.
+6
+4
+Enter your guess : 4
+Wow! you got it.
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+Enter a number : 22
+Subomi, you will have 2 numbers! from 1 to 22
+Here is the list of numbers. >>>>Guess the one golden number.
+13
+21
+Enter your guess : 13
+Wow! you got it.
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+Enter a number : 22
+Subomi, you will have 2 numbers! from 1 to 22
+Here is the list of numbers. >>>>Guess the one golden number.
+2
+14
+Enter your guess : 2
+Wow! you got it.
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+Subomi Your score in Guess game is 4 out of 5 attempted guesses.
+Do you want to play again : 2
+Quit Game ? : 2
+Welcome back Subomi
+Do you want another user to play this game ?
+if yes press  1, else press 2 :
+1
+Enter the new player's name. : favour
+Welcome Favour. Your name will be remembered when next you log in.
+Start game now ? (1/2) : 1
+
+===============================================================================
+
+ZZZZZZZZZZZZZZZZZZZZ
+GAME STARTED !!!
+ZZZZZZZZZZZZZZZZZZZZ
+
+Choose difficulty level :
+Enter "1" for easy, "2" for medium and "3" for legend :
+2
+
+Whenever you want to quit, please enter "0".
+
+Enter a number : 8
+Favour, you will have 3 numbers! from 1 to 8
+Here is the list of numbers. >>>>Guess the one golden number.
+4
+2
+5
+Enter your guess : 2
+oops you missed it.
+You can play again.
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+Enter a number : 4
+Favour, you will have 3 numbers! from 1 to 4
+Here is the list of numbers. >>>>Guess the one golden number.
+3
+2
+1
+Enter your guess : 1
+oops you missed it.
+You can play again.
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+Enter a number : 22
+Favour, you will have 3 numbers! from 1 to 22
+Here is the list of numbers. >>>>Guess the one golden number.
+10
+5
+14
+Enter your guess : 5
+oops you missed it.
+You can play again.
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+Enter a number : 82
+Favour, you will have 3 numbers! from 1 to 82
+Here is the list of numbers. >>>>Guess the one golden number.
+73
+79
+64
+Enter your guess : 79
+oops you missed it.
+You can play again.
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+Enter a number : 28
+Favour, you will have 3 numbers! from 1 to 28
+Here is the list of numbers. >>>>Guess the one golden number.
+21
+27
+11
+Enter your guess : 11
+oops you missed it.
+You can play again.
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+Favour Your score in Guess game is 0 out of 5 attempted guesses.
+Do you want to play again : 1
+Start game now ? (1/2) : 1
+
+===============================================================================
+
+ZZZZZZZZZZZZZZZZZZZZ
+GAME STARTED !!!
+ZZZZZZZZZZZZZZZZZZZZ
+
+Choose difficulty level :
+Enter "1" for easy, "2" for medium and "3" for legend :
+1
+
+Whenever you want to quit, please enter "0".
+
+Enter a number : 23
+Favour, you will have 2 numbers! from 1 to 23
+Here is the list of numbers. >>>>Guess the one golden number.
+5
+17
+Enter your guess : 5
+oops you missed it.
+You can play again.
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+Enter a number : 32
+Favour, you will have 2 numbers! from 1 to 32
+Here is the list of numbers. >>>>Guess the one golden number.
+9
+6
+Enter your guess : 6
+oops you missed it.
+You can play again.
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+Enter a number : 283
+Favour, you will have 2 numbers! from 1 to 283
+Here is the list of numbers. >>>>Guess the one golden number.
+48
+179
+Enter your guess : 179
+Wow! you got it.
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+Enter a number : 32
+Favour, you will have 2 numbers! from 1 to 32
+Here is the list of numbers. >>>>Guess the one golden number.
+25
+7
+Enter your guess : 7
+oops you missed it.
+You can play again.
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+Enter a number : 32
+Favour, you will have 2 numbers! from 1 to 32
+Here is the list of numbers. >>>>Guess the one golden number.
+11
+20
+Enter your guess : 11
+oops you missed it.
+You can play again.
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+Favour Your score in Guess game is 1 out of 5 attempted guesses.
+Do you want to play again : 2
+Quit Game ? : 2
+Welcome back Favour
+Do you want another user to play this game ?
+if yes press  1, else press 2 :
+1
+Enter the new player's name. : kashamu
+Welcome Kashamu. Your name will be remembered when next you log in.
+Start game now ? (1/2) : 1
+
+===============================================================================
+
+ZZZZZZZZZZZZZZZZZZZZ
+GAME STARTED !!!
+ZZZZZZZZZZZZZZZZZZZZ
+
+Choose difficulty level :
+Enter "1" for easy, "2" for medium and "3" for legend :
+1
+
+Whenever you want to quit, please enter "0".
+
+Enter a number : 21
+Kashamu, you will have 2 numbers! from 1 to 21
+Here is the list of numbers. >>>>Guess the one golden number.
+21
+15
+Enter your guess : 15
+Wow! you got it.
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+Enter a number : 2
+Kashamu, you will have 2 numbers! from 1 to 2
+Here is the list of numbers. >>>>Guess the one golden number.
+2
+1
+Enter your guess : 1
+Wow! you got it.
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+Enter a number : 23
+Kashamu, you will have 2 numbers! from 1 to 23
+Here is the list of numbers. >>>>Guess the one golden number.
+16
+2
+Enter your guess : 2
+oops you missed it.
+You can play again.
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+Enter a number : 2
+Kashamu, you will have 2 numbers! from 1 to 2
+Here is the list of numbers. >>>>Guess the one golden number.
+2
+1
+Enter your guess : 1
+oops you missed it.
+You can play again.
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+Enter a number : 32
+Kashamu, you will have 2 numbers! from 1 to 32
+Here is the list of numbers. >>>>Guess the one golden number.
+28
+14
+Enter your guess : 14
+oops you missed it.
+You can play again.
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+Kashamu Your score in Guess game is 2 out of 5 attempted guesses.
+Do you want to play again : 2
+Quit Game ? : 1
+
+Traceback (most recent call last):
+  File "C:/Users/User/PycharmProjects/python_crash_course/chapter10/json_practice_GuessGame.py", line 205, in <module>
+    for i, (player, (level, score)) in enumerate(ranked_players):
+ValueError: too many values to unpack (expected 2)
+=====================================================================
+Kashamu, You have successfully closed Guess Game!!!
+=====================================================================
+
+[('Balikis', ['medium', 1, 'easy', 1]), ('solomon', ['medium', 0]), ('femi', ['easy', 3]), ('subomi', ['easy', 4]), ('favour', ['medium', 0, 'easy', 1]), ('kashamu', ['easy', 2])]
+
+==========================================================================
+ZZZZZZZZZZZZZZZZZZZZ
+GOLDEN PLAYERS!!!
+ZZZZZZZZZZZZZZZZZZZZ
+Below are the top three scorers :
+S/N         Player      Level       Score
+1.          Subomi      easy        4
+
+2.          Femi        easy        3
+
+3.          Kashamu     easy        2
+
+=====================================================================
+
+
+Below is the rank of all 6 :
+
+S/N         Player      Level       Score
+1.          Subomi      easy        4
+
+2.          Femi        easy        3
+
+3.          Kashamu     easy        2
+
+
+Process finished with exit code 1
